@@ -1,4 +1,4 @@
-# Wi-Fi Port Checker Tool 🔥
+# Wi-Fi Port Checker Tool 
 
 The Wi-Fi Port Checker Tool is a Bash script designed to simplify the process of scanning and analyzing open ports in your Wi-Fi network. It provides a user-friendly menu to initiate port scanning, view results, and exit the tool.
 
